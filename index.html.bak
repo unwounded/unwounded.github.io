@@ -1,7 +1,96 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bryce Place's Ethical Hacking Projects</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <h1>Bryce Place's Ethical Hacking Courses and Projects</h1>
+    </header>
+    <main>
+        <section class="semester">
+            <h2>Fall 2023</h2>
+            <ul>
+                <li>
+                    <h3>CMP 201; Data Structures and Algorithms 1</h3>
+                    <p>With a Software Engineering degree under my belt, this course was
+					at most review for me. There were weekly assignments on basic data structures
+					and their implementation in C++. The last time I took this course I implemented
+					these structures in Java so the knowledge of memory allocation was more than useful.</p>
+					<p>Grade: A+</p>
+                </li>
+                <li>
+                    <h3>CMP 204; Secure Web Development</h3>
+                    <p>We were tasked to create a modernized webpage with our choice of subject matter.
+					The documentation of this webpage can be found here. /* insert here */</p>
+					<p>Grade: B+</p>
+                </li>
+				<li>
+                    <h3>CMP 210; Penetration Testing</h3>
+                    <p>This course was the first instance where I was tasked with learning professional
+					hacking techniques. I wrote a white paper on my findings on a device with 
+					several notable faults and exploitations. My white paper can be found here.</p>
+					<p>Grade: B+</p>
+                </li>
+            </ul>
+        </section>
+        <section class="semester">
+            <h2>Spring 2024</h2>
+            <ul>
+                <li>
+                    <h3>CMP 202; Data Structures and Algorithms 2</h3>
+                    <p>A continuation of the work from CMP 201, I was tasked with designing a 
+					project utilizing multithreading of my choice. I chose to design a virtual
+					train station simulation. This simulation code is provided here.</p>
+					<p>Grade: C+</p>
+                </li>
+                <li>
+                    <h3>CMP 209; Digital Forensics</h3>
+                    <p>Digital Forensics was a course that revolved around a group's case
+					study of a theoretical criminal's hardrive. My group carefully conducted
+					an examination of the harddrive's contents and wrote a report on the matter
+					which can be found here.</p>
+					<p>Grade: A</p>
+                </li>
+            </ul>
+        </section>
+		<section class="semester">
+            <h2>Fall 2024</h2>
+            <ul>
+                <li>
+                    <h3>CMP 308; Professional Project Planning and Prototyping</h3>
+                    <p>Description of Project 1.</p>
+                </li>
+                <li>
+                    <h3>CMP 314; Computer Networking 2</h3>
+                    <p>Description of Project 2.</p>
+                </li>
+                <li>
+                    <h3>CMP 319; Web Application Penetration Testing</h3>
+                    <p>Description of Project 2.</p>
+                </li>
+            </ul>
+        </section>
+        <section class="semester">
+            <h2>Spring 2025</h2>
+            <ul>
+                <li>
+                    <h3>Project 3</h3>
+                    <p>Description of Project 3.</p>
+                </li>
+                <li>
+                    <h3>Project 4</h3>
+                    <p>Description of Project 4.</p>
+                </li>
+            </ul>
+        </section>
+        <!-- Add more semesters as needed -->
+    </main>
+    <footer>
+        <p>&copy; 2025 Bryce Place. All rights reserved.</p>
+    </footer>
 </body>
 </html>
