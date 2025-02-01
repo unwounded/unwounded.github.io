@@ -10,7 +10,7 @@
     <header>
         <h1>Bryce Place's Ethical Hacking Courses and Projects</h1>
     </header>
-    <main>
+    <main class= "scroll-sidebar">
         <section class="semester">
             <h2>Fall 2023</h2>
             <ul>
@@ -92,12 +92,5 @@
     <footer>
         <p>&copy; 2025 Bryce Place. All rights reserved.</p>
     </footer>
-	<div class="scroll-sidebar">
-        <div class="scroll-content">
-            <!-- Add content here that you want to be scrollable -->
-            <p>This is a scrollable sidebar content.</p>
-            <p>You can add more content here as needed.</p>
-        </div>
-    </div>
 </body>
 </html>
