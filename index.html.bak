@@ -25,7 +25,7 @@
                 <li>
                     <h3>CMP 204; Secure Web Development</h3>
                     <p>We were tasked to create a modernized webpage with our choice of subject matter.
-					The documentation of this webpage can be found <a href="" target="_blank">here.</a> </p>
+					The documentation of this webpage can be found <a href="cmp204 (2).zip" target="_blank">here.</a> </p>
 					<p>Grade: B+</p>
                 </li>
 				<li>
@@ -44,7 +44,8 @@
                     <h3>CMP 202; Data Structures and Algorithms 2</h3>
                     <p>A continuation of the work from CMP 201, I was tasked with designing a 
 					project utilizing multithreading of my choice. I chose to design a virtual
-					train station simulation. This simulation code is provided here.</p>
+					train station simulation. The resulting PDF for this project as well as a softmax simulation
+					are provided <a href="cmp204 (2).zip" target="_blank">here</a> and <a href="cmp204 (2).zip" target="_blank">here</a>.</p>
 					<p>Grade: C+</p>
                 </li>
                 <li>
