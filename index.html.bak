@@ -11,7 +11,6 @@
         <h1>Bryce Place's Ethical Hacking Courses and Projects</h1>
     </header>
     <main>
-		<div class="content">
         <section class="semester">
             <h2>Fall 2023</h2>
             <ul>
@@ -26,7 +25,7 @@
                 <li>
                     <h3>CMP 204; Secure Web Development</h3>
                     <p>We were tasked to create a modernized webpage with our choice of subject matter.
-					The documentation of this webpage can be found here. /* insert here */</p>
+					The documentation of this webpage can be found here. </p>
 					<p>Grade: B+</p>
                 </li>
 				<li>
@@ -53,7 +52,7 @@
                     <p>Digital Forensics was a course that revolved around a group's case
 					study of a theoretical criminal's hardrive. My group carefully conducted
 					an examination of the harddrive's contents and wrote a report on the matter
-					which can be found here.</p>
+					which can be found <a href="report.pdf" target="_blank">here</a>.</p>
 					<p>Grade: A</p>
                 </li>
             </ul>
@@ -89,7 +88,6 @@
             </ul>
         </section>
         <!-- Add more semesters as needed -->
-		</div>
     </main>
     <footer>
         <p>&copy; 2025 Bryce Place. All rights reserved.</p>
