@@ -4,7 +4,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
-    overflow-x: hidden; /* Prevent horizontal scrolling */
+    overflow-x: hidden; 
 }
 
 header {
@@ -19,8 +19,8 @@ header {
 
 main {
     padding: 20px;
-    overflow-y: auto; /* Allow vertical scrolling */
-    height: calc(100vh - 120px); /* Adjust height to account for header and footer */
+    overflow-y: auto; 
+    height: calc(100vh - 120px); 
 }
 
 .semester {
