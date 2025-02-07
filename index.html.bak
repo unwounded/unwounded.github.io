@@ -7,8 +7,23 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Bryce Place's Ethical Hacking Courses and Projects</h1>
+        <header>
+        <h1>Bryce Place's Ethical Hacking Projects</h1>
+        <div class="files-tab">
+            <button class="files-button">Files</button>
+            <div class="files-dropdown">
+                <a href="cmp204 (2).zip" download>Web Development Code</a>
+                <a href="Penetration Testing-1.docx" download>Penetration Testing Report</a>
+                <a href="Stations-1.pdf" download>Data Structures Report</a>
+				<a href="SoftMax-1.pdf" download>Data Structures Report 2</a>
+				<a href="Digital Forensic Report 3ensic Group.pdf" download>Digital Forensics Report</a>
+				<a href="Bryce Place CMP308 Proposal Template.pdf" download> </a>
+				<a href="Computer Networking White Paper.docx" download> </a>
+				<a href="" download> </a>
+				<a href="" download> </a>
+                <!-- Add more files as needed -->
+            </div>
+        </div>
     </header>
     <main>
         <section class="semester">
