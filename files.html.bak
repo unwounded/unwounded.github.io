@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Files</h1>
-        <a href="index.html" class="back-button">Back to Home</a>
+        <a href="index.html" class="files-button">Back to Home</a>
     </header>
     <main>
         <ul class="files-list">
