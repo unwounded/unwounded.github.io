@@ -21,12 +21,6 @@ header {
 }
 
 
-.files-tab {
-    position: relative;
-    display: flex;
-    align-items: center;
-}
-
 .files-button {
     background: none;
     border: 2px solid #00ff00;
@@ -34,6 +28,7 @@ header {
     padding: 10px 20px;
     cursor: pointer;
     font-size: 16px;
+    text-decoration: none;
     transition: background 0.3s, color 0.3s;
 }
 
@@ -42,30 +37,20 @@ header {
     color: #000;
 }
 
-.files-dropdown {
-    display: none;
-    position: absolute;
-    right: 0;
-    background-color: #000;
+.back-button {
+    background: none;
     border: 2px solid #00ff00;
-    padding: 10px;
-    z-index: 1000;
-}
-
-.files-dropdown a {
     color: #00ff00;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
     text-decoration: none;
-    display: block;
-    margin: 5px 0;
-    transition: color 0.3s;
+    transition: background 0.3s, color 0.3s;
 }
 
-.files-dropdown a:hover {
-    color: #0f0;
-}
-
-.files-tab:hover .files-dropdown {
-    display: block;
+.back-button:hover {
+    background: #00ff00;
+    color: #000;
 }
 
 main {
@@ -99,6 +84,25 @@ main {
 
 .semester li p {
     margin: 0;
+}
+
+.files-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.files-list li {
+    margin-bottom: 10px;
+}
+
+.files-list a {
+    color: #00ff00;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.files-list a:hover {
+    color: #0f0;
 }
 
 footer {

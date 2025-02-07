@@ -15,6 +15,42 @@ header {
     position: sticky;
     top: 0;
     z-index: 1000;
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.files-button {
+    background: none;
+    border: 2px solid #00ff00;
+    color: #00ff00;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background 0.3s, color 0.3s;
+}
+
+.files-button:hover {
+    background: #00ff00;
+    color: #000;
+}
+
+.back-button {
+    background: none;
+    border: 2px solid #00ff00;
+    color: #00ff00;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background 0.3s, color 0.3s;
+}
+
+.back-button:hover {
+    background: #00ff00;
+    color: #000;
 }
 
 main {
