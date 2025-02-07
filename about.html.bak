@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Bryce Place's Ethical Hacking Projects</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+        <a href="index.html" class="files-button">Back to Home</a>
+    </header>
+    <main>
+	<p> I am a Ethical Hacking Student at Abertay University. I have a Software Engineering degree
+	from the University of Wisconsin, Oshkosh for my studies from 2017-2020.  I plan to continue my 
+	studies and expertise in the field by seeking employement in the United Kingdom. 
+	</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Bryce Place. All rights reserved.</p>
+    </footer>
+</body>
+</html>
